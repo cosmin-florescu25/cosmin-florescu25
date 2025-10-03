@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**cosmin-florescu25/cosmin-florescu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m Cosmin, a second-year student at **University POLITEHNICA of Bucharest (UPB), Faculty of Automatic Control and Computers – CTI**.  
+💡 Curious about technology, but also open to learning new things outside of it.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Languages
+- Romanian: native  
+- English: B2  
+- French: A2  
+
+---
+
+### 🚀 Tech Stack
+- **Languages:** C, Python, Matlab, Assembly  
+- **Tools:** Git, VSCode, SQLite  
+- **Interests:** Machine Learning, Algorithms, Data Structures, Web Crawling  
+
+---
+
+### 🎸 Hobbies
+- Playing guitar  
+- Learning new stuff (not only tech-related)  
+- Video games  
+
