@@ -1,5 +1,5 @@
-## Hi there 👋  
-
+## Hello there 👋  
+<img src="images/kenobi.jpg" alt="Hello there meme" width="400"/>
 🎓 I’m Cosmin, a second-year student at **University POLITEHNICA of Bucharest (UPB), Faculty of Automatic Control and Computers – CTI**.  
 💡 Curious about technology, but also open to learning new things outside of it.  
 
